@@ -1,8 +1,10 @@
-# GYR-O Pages
+# Interruption Science
 
-A website format built on three columns: **plain answers**, **previewed sources**,
-and **full technical detail** — so three different visitors each get what they
-came for on one page, without wading through the other two.
+What research has found about interruptions at work: how often they happen, what they cost,
+how people get back, and what helps. Twelve plain answers, nine previewed sources, and the
+detail behind them, in the GYR-O format (plain answers, previewed sources, technical detail).
+
+The reading list behind Round Trip Distraction, a user-experience experiment by Walter Wilkinson.
 
 Live: **https://interruption-science.online**
 
